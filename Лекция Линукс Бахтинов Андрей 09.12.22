@@ -1,0 +1,14 @@
+Лекция Линукс Бахтинов Андрей 09.12.22
+
+Команада Watch - смотреть содержимое папки в реальном времени
+
+scp ./sergiikozhushko.java ec2-user@linux.telran-edu.de:~/uploads/
+sergiikozhushko.java - скопировать файл с локальной машины на сервер. Выполнять на лок машине
+
+scp ec2-user@linux.telran-edu.de://home/ec2-user/travel.html .  - выполнять на локальной машине, копирует в текущий каталог
+
+sudo yum install vsftpd
+
+sudo yum install vsftpd
+
+sudo systemctl -  посмотреть демоны
